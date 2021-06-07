@@ -1,0 +1,11 @@
+.nav-wrapper{
+    background-color: rgb(216, 157, 228);
+}
+.brand-logo{
+    font-family:'Courier New', Courier, monospace;
+    font: size 9px;
+}
+.right{
+    font-family: 'Courier New', Courier, monospace;
+    font: size 20px;
+}

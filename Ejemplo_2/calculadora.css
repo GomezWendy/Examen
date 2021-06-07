@@ -1,0 +1,40 @@
+.Calculadora{
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(161, 212, 228) ;
+    width: 350px;
+    height: 600px;
+    border-radius: 25px;
+}
+
+.Calculadora td button{
+    display: block;
+    width: 60px;
+    height: 60px;
+    font-size: 25px;
+}
+
+#resultado{
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+    width: 250px;
+    height: 100px;
+    line-height: 100px;
+    background-color: white;
+    border-radius: 25px;
+    overflow-y: scroll;
+}
+.nav-wrapper{
+    background-color: rgb(216, 157, 228);
+}
+.brand-logo{
+    font-family:'Courier New', Courier, monospace;
+    font: size 9px;
+}
+.right{
+    font-family: 'Courier New', Courier, monospace;
+    font: size 20px;
+}
